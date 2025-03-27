@@ -16,44 +16,7 @@ This project is a solution to the [Frontend Mentor Recipe Page Challenge](https:
 
 ## 📷 Screenshot
 
-![Recipe Page Screenshot](screenshot.png) _(Replace with an actual screenshot)_
-
-## 🚀 How to Run the Project
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   ```
-2. Open the `index.html` file in your browser.
-
-## 🌐 Live Demo
-
-[View Live Project](/Screenshot%202025-03-27%20153051.png) _(Replace with actual URL)_
-
-## 📖 Style Guide
-
-### Layout
-
-- Mobile: `375px`
-- Desktop: `1440px`
-
-### Colors
-
-- **White**: `hsl(0, 0%, 100%)`
-- **Stone 100**: `hsl(30, 54%, 90%)`
-- **Stone 150**: `hsl(30, 18%, 87%)`
-- **Stone 600**: `hsl(30, 10%, 34%)`
-- **Stone 900**: `hsl(24, 5%, 18%)`
-- **Brown 800**: `hsl(14, 45%, 36%)`
-- **Rose 800**: `hsl(332, 51%, 32%)`
-- **Rose 50**: `hsl(330, 100%, 98%)`
-
-### Typography
-
-- **Font Size (Paragraphs)**: `16px`
-- **Fonts Used**:
-  - _Young Serif_ (Weight: `400`)
-  - _Outfit_ (Weights: `400, 600, 700`)
+![Recipe Page Screenshot](/Screenshot%202025-03-27%20153051.png)
 
 ## 📜 License
 
